@@ -1,0 +1,2 @@
+total 1
+-rw-------+ 1 brw180000 sn 0 Sep 23 22:16 file2.txt

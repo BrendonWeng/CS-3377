@@ -1,0 +1,5 @@
+total 2
+drwx------+ 3 brw180000 sn  4 Sep 23 22:16 dir1
+drwx--x--x+ 2 brw180000 sn  3 Sep 23 22:16 dir2
+-rw-------+ 1 brw180000 sn  0 Sep 23 22:16 file3.txt
+lrwxrwxrwx  1 brw180000 sn 14 Sep 23 22:16 link1 -> dir2/file2.txt
